@@ -7,6 +7,9 @@ Custom Claude Code skills for LLM agent operations.
 | Skill | Command | Description |
 |-------|---------|-------------|
 | [ssh-bridge](skills/ssh-bridge/) | `/ssh-bridge` | Connect to a remote server through a human's VPN-gated PC as bridge |
+| [migrate-server](skills/migrate-server/) | `/migrate-server` | Migrate a running production system to another server (survey → plan → execute → verify) |
+| [china-mirrors](skills/china-mirrors/) | `/china-mirrors` | Configure package mirrors for China servers (Docker Hub, PyPI, HuggingFace, NPM) |
+| [resilient-remote](skills/resilient-remote/) | `/resilient-remote` | Run long operations through unstable SSH connections (nohup, rsync resume, retry) |
 
 ## Installation
 
