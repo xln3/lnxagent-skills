@@ -1,0 +1,9 @@
+README.md
+SKILL.md
+eval/rubric.md
+examples/before-after.md
+manifest.txt
+references/diagnostic-taxonomy.md
+references/rewrite-playbook.md
+templates/prompts.md
+tests/cases.md
