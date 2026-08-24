@@ -11,6 +11,7 @@ Custom Claude Code skills for LLM agent operations.
 | [china-mirrors](skills/china-mirrors/) | `/china-mirrors` | Configure package mirrors for China servers (Docker Hub, PyPI, HuggingFace, NPM) |
 | [resilient-remote](skills/resilient-remote/) | `/resilient-remote` | Run long operations through unstable SSH connections (nohup, rsync resume, retry) |
 | [wudi-renhua-editor](skills/wudi-renhua-editor/) | `/wudi-renhua-editor` | Rewrite Chinese AI-like or formulaic prose into accurate, concrete, natural language |
+| [workflow-diagram](skills/workflow-diagram/) | `/workflow-diagram` | Generate editable draw.io workflows and storyboard animations from business documents or sketches |
 
 ## Installation
 
