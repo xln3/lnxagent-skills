@@ -31,6 +31,12 @@ Or link individual skills:
 ln -sfn /path/to/lnxagent-skills/skills/ssh-bridge ~/.claude/skills/ssh-bridge
 ```
 
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [腾讯云反向 SSH 中转配置](docs/tencent-ssh-relay-setup.md) | 脱敏、参数化的反向 SSH 隧道、受限跳板账号、外部使用者开通、自动重连和撤销流程 |
+
 ## Adding New Skills
 
 1. Create a directory under `skills/<skill-name>/`
