@@ -36,6 +36,7 @@ ln -sfn /path/to/lnxagent-skills/skills/ssh-bridge ~/.claude/skills/ssh-bridge
 | Document | Description |
 |----------|-------------|
 | [腾讯云反向 SSH 中转配置](docs/tencent-ssh-relay-setup.md) | 脱敏、参数化的反向 SSH 隧道、受限跳板账号、外部使用者开通、自动重连和撤销流程 |
+| [SSH 中转配置会话记录](docs/session-ssh-relay-2026-10-19.md) | 本次方案设计、故障判断、验证结果和后续维护原则 |
 
 ## Adding New Skills
 
