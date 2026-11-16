@@ -1,6 +1,6 @@
 # lnxagent-skills
 
-Custom Claude Code skills for LLM agent operations.
+Custom skills and host plugins for LLM agent operations.
 
 ## Skills
 
@@ -12,6 +12,12 @@ Custom Claude Code skills for LLM agent operations.
 | [resilient-remote](skills/resilient-remote/) | `/resilient-remote` | Run long operations through unstable SSH connections (nohup, rsync resume, retry) |
 | [wudi-renhua-editor](skills/wudi-renhua-editor/) | `/wudi-renhua-editor` | Rewrite Chinese AI-like or formulaic prose into accurate, concrete, natural language |
 | [workflow-diagram](skills/workflow-diagram/) | `/workflow-diagram` | Generate editable draw.io workflows and storyboard animations from business documents or sketches |
+
+## Plugins
+
+| Plugin | Description |
+|--------|-------------|
+| [dsh-session-handoff](plugins/dsh-session-handoff/) | Experimental DSH host plugin that exports native session logs, complete review views, and continuation handoff packages |
 
 ## Installation
 
